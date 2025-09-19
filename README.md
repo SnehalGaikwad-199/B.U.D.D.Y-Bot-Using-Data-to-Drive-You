@@ -13,20 +13,20 @@ Organizations face a critical challenge of reducing ‘time to productivity’. 
 Buddy is based on multi agent orchestration concept powered by GPT5. The Core agent works in coordination with the declarative, custom and autonomous agents to facilitate collaboration across workflows. It uses connector actions, flow orchestration, and plugin extensibility enabling secure, scalable, and role-aware automation across M365 and Azure services. It leverages enhanced language modeling for highly nuanced comprehension, contextual awareness, and robust conversation capabilities.
 
 Buddy is a comprehensive Agentic AI solution that:
-	•	Provides an AI powered intelligent knowledge base for instant Q&A 
-	•	Offers real-time insights and predictive analytics to accelerate decision making
-	•	Automates routine repetitive tasks and offers guidance for incident management  
-	•	Acts as a constant, reliable team partner facilitating successful project outcomes 
+- Provides an AI powered intelligent knowledge base for instant Q&A 
+- Offers real-time insights and predictive analytics to accelerate decision making
+- Automates routine repetitive tasks and offers guidance for incident management
+- Acts as a constant, reliable team partner facilitating successful project outcomes 
  
 **Key Features:**
-•	Assistance for routine tasks with single click
-•	Automated incident creation for issues like instance access, application role requests, etc.
-•	Integration with PM Tools like JIRA, ADO, Confluence for unified product/project tracking
-•	Intelligent task recommendation based on team workload
-•	Real time coding assistance and instant query resolution for project related Q&A 
-•	AI assisted quality management and insights
-•	Generation of product requirement documents and release notes
-•	Automated creation and prioritization of product roadmaps based on user feedback, market trends and business goals.
+- Assistance for routine tasks with single click
+- Automated incident creation for issues like instance access, application role requests, etc.
+- Integration with PM Tools like JIRA, ADO, Confluence for unified product/project tracking
+- Intelligent task recommendation based on team workload
+- Real time coding assistance and instant query resolution for project related Q&A
+- AI assisted quality management and insights
+- Generation of product requirement documents and release notes
+- Automated creation and prioritization of product roadmaps based on user feedback, market trends and business goals.
 
 **Impact:**
 Buddy aims to impact significant increase in productivity often quantified as 20-40% reduction in time spent on repetitive or administrative tasks. By leveraging Buddy, employees can focus more on higher-value, creative work, leading to greater job satisfaction and reduction in errors up to 30%. It will also enable more accurate decision-making by providing real-time data analysis. Overall, Buddy will help organizations to achieve measurable business results by lowering operational costs and enhancing project deliverable quality.
